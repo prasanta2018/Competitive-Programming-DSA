@@ -4,6 +4,7 @@
 // Space Complexity: O(1)
 
 // main aim is to move the slow pointer (list size-n) times, so that it will reach to the target node.
+
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
