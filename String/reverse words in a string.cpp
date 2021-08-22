@@ -62,7 +62,7 @@ public:
         
         // O(n) time and O(1) space
         if(1) {
-            // Clean all the spaces
+            // Clean all the extra spaces
             CleanSpaces(s);
             int n = s.length();
             int start = 0;
